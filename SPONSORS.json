@@ -1,0 +1,43 @@
+[
+    {
+        "embed": {
+            "description": "Gho$t the best bot.",
+            "color": 53380,
+            "author": {
+                "name": "Gho$t",
+                "url": "https://cordghost.carrd.co/",
+                "icon_url": "https://imgur.com/a/HjjJUML"
+            },
+            "image": {
+                "url":  "https://imgur.com/a/HjjJUML"
+            },
+            "fields": [
+                {
+                    "name": "Invite!",
+                    "value": "[**Click Here**](https://cordghost.carrd.co/)"
+                }
+            ]
+        }
+    },
+
+    {
+        "embed": {
+            "description": "Gho$t the best bot.",
+            "color": 53380,
+            "author": {
+                "name": "Gho$t",
+                "url": "https://cordghost.carrd.co/",
+                "icon_url": "https://imgur.com/a/HjjJUML"
+            },
+            "image": {
+                "url":  "https://imgur.com/a/HjjJUML"
+            },
+            "fields": [
+                {
+                    "name": "Invite!",
+                    "value": "[**Click Here**](https://cordghost.carrd.co/)"
+                    }
+                ]
+          }
+     }
+]
