@@ -1,2 +1,2 @@
-# v1.0
-Initital release
+# v3.10.2
+Public release
